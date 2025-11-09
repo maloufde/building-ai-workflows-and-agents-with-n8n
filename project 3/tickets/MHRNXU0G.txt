@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Chris
+
+Submitted: 2025-11-09T13:01:48.546+01:00
+
+Description:
+Enterprise Azure AD password reset/unlock for user Chris (username: chris@mecom) on Windows 11. Device: PC name; last login attempt was just now.
