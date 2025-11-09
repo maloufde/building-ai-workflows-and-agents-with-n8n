@@ -1,0 +1,9 @@
+User Name: Max Mustermann
+
+Submitted: 2025-11-09T16:06:50.502+01:00
+
+Description:
+User reports computer makes unusual noises when powering on. Concerned about potential damage. Immediate safety steps advised: shut down, unplug, and do not use until checked. Contact: extension -2788. Awaiting details: device type (desktop/laptop), asset tag/inventory number, office location, and whether there is any smoke/burning smell.
+
+Status: Open
+Prio: Urgent
