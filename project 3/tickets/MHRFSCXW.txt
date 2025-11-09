@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Max Mustermann
+
+Submitted: 2025-11-09T09:13:35.586+01:00
+
+Description:
+Ständiger Spam im Büro-Postfach (Outlook Desktop); Absender wechseln ständig, daher soll IT eine zentrale Lösung implementieren. Ticket ID: TBD
