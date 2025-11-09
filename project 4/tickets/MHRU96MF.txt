@@ -1,0 +1,9 @@
+User Name: Max Mustermann
+
+Submitted: 2025-11-09T15:58:33.546+01:00
+
+Description:
+User reports Blue Screen of Death (BSOD) on Windows PC. System shows blue screen; user cannot proceed. Initial guidance shared: remove external devices, perform hard reset, attempt Windows Recovery Environment (Startup Repair), try Safe Mode to uninstall recent drivers/updates. Awaiting details: exact STOP code/error text, whether the device can boot at all, whether WinRE/Safe Mode is reachable, any recent changes (drivers/software/Windows Update), device asset tag/hostname, user location, and callback number. User requests immediate assistance.
+
+Status: Open
+Prio: Urgent
